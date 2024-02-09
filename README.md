@@ -1,2 +1,2 @@
 # labcode
-This ia a first GitHub file
+This is a first GitHub file
